@@ -6,3 +6,39 @@ p {
   font-size: 16px; /* 1em */
   line-height: 1.5em;
 }
+
+figcaption {
+  font-weight: normal;
+  font-size: 0.75em;
+  line-height: 1.5em;
+  font-family: Georgia, "New Times Roman", serif;
+  /* this is the same as the same preceding six lines: */
+  font: normal 0.75em/1.5em Georgia, "New Times Roman", serif; 
+  
+  color: #000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
